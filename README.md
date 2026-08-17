@@ -1,11 +1,5 @@
-______           _            _     _____              _
-| ___ \         | |          | |   |_   _|            | |
-| |_/ /_   _  __| | __ _  ___| |_    | |_ __ __ _  ___| | _____ _ __
-| ___ \ | | |/ _` |/ _` |/ _ \ __|   | | '__/ _` |/ __| |/ / _ \ '__|
-| |_/ / |_| | (_| | (_| |  __/ |_    | | | | (_| | (__|   <  __/ |
-\____/ \__,_|\__,_|\__, |\___|\__|   \_/_|  \__,_|\___|_|\_\___|_|
-                    __/ |
-                   |___/
+Budget Tracker
+
 Description:
 Budget Tracker is a command-line application built in Python for my CS50P final project. It allows a user to log income and expenses, organize spending into categories, check their current balance, and view a breakdown of how much they've spent in each category — with all data automatically saved between sessions using a CSV file.
 
